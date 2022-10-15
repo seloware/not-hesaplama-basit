@@ -1,0 +1,11 @@
+C:\Users\casper\source\repos\Not ortalama hesaplama\Not ortalama hesaplama\bin\Debug\Not ortalama hesaplama.exe.config
+C:\Users\casper\source\repos\Not ortalama hesaplama\Not ortalama hesaplama\bin\Debug\Not ortalama hesaplama.exe
+C:\Users\casper\source\repos\Not ortalama hesaplama\Not ortalama hesaplama\bin\Debug\Not ortalama hesaplama.pdb
+C:\Users\casper\source\repos\Not ortalama hesaplama\Not ortalama hesaplama\obj\Debug\Not ortalama hesaplama.csproj.AssemblyReference.cache
+C:\Users\casper\source\repos\Not ortalama hesaplama\Not ortalama hesaplama\obj\Debug\Not ortalama hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\casper\source\repos\Not ortalama hesaplama\Not ortalama hesaplama\obj\Debug\Not_ortalama_hesaplama.Form1.resources
+C:\Users\casper\source\repos\Not ortalama hesaplama\Not ortalama hesaplama\obj\Debug\Not_ortalama_hesaplama.Properties.Resources.resources
+C:\Users\casper\source\repos\Not ortalama hesaplama\Not ortalama hesaplama\obj\Debug\Not ortalama hesaplama.csproj.GenerateResource.cache
+C:\Users\casper\source\repos\Not ortalama hesaplama\Not ortalama hesaplama\obj\Debug\Not ortalama hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\Not ortalama hesaplama\Not ortalama hesaplama\obj\Debug\Not ortalama hesaplama.exe
+C:\Users\casper\source\repos\Not ortalama hesaplama\Not ortalama hesaplama\obj\Debug\Not ortalama hesaplama.pdb
